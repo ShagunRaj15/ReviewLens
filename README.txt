@@ -1,1 +1,0 @@
-Place trained model artifacts here. The app expects models/bert/ for a fine-tuned BERT model, models/baseline.joblib for the optional TF-IDF model, and models/metrics.json for evaluation metrics. These binary artifacts were not included in the supplied ZIP.
